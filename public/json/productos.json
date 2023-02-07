@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Bacha Artesanal",
+        "precio": 12500,
+        "stock": 15,
+        "img": "BachaArtesanal.jpeg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Jarrita Acqua",
+        "precio": 2500,
+        "stock": 35,
+        "img": "Jarrita Acqua.jpeg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Jarrón Rubí",
+        "precio": 7300,
+        "stock": 15,
+        "img": "JarrónRubí.jpeg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Cuenco Acqua",
+        "precio": 2200,
+        "stock": 30,
+        "img": "CuencoAcqua.jpeg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 5,
+        "nombre": "Taza Rubí",
+        "precio": 2700,
+        "stock": 50,
+        "img": "TazarústicaRubi.jpeg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 6,
+        "nombre": "Ensaladera Mar",
+        "precio": 3500,
+        "stock": 20,
+        "img": "EnsaladeraMar.jpeg"
+    }
+]
